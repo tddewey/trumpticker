@@ -1,12 +1,4 @@
-# One trump action per line.
-# Date event occured,headline,details or context,source URL
-# Date format: yyyy-mm-dd
-# If a tweet, put the full text of the tweet (in case it is deleted) and also a permalink.
-# Anything is valid, doesn't just have to be official actions (e.g. press conferences are okay).
-# Keep it limited to what Trump has done... but as you'll see, he often is involved somehow.
-# Newest items on top.
-
-#remember to capture mexico city policy, clamp down on agency social media, 
+yyyy-mm-dd,Headline,Details or context,Reference URL
 
 2017-01-25,"Trump says he wants to build a wall that Mexico pays for, GOP says they'll fund it, Mexico says they won't.","In addition to the wall, Exeutive order 13767 aims to speed up deportations and increase border patrol agents.",http://www.cnn.com/2017/01/25/politics/donald-trump-build-wall-immigration-executive-orders/
 2017-01-24,Exeuctive order 13766 pushes forward the Keystone XL and Dakota Access Pipeline,Both projects had permits denied under the Obama administration. Trump is requiring them to be revisited.,http://www.cnn.com/2017/01/24/politics/trump-keystone-xl-dakota-access-pipelines-executive-actions/
