@@ -1,0 +1,15 @@
+# One trump action per line.
+# Date event occured,headline,details or context,source URL
+# Date format: yyyy-mm-dd
+# If a tweet, put the full text of the tweet (in case it is deleted) and also a permalink.
+# Anything is valid, doesn't just have to be official actions (e.g. press conferences are okay).
+# Keep it limited to what Trump has done... but as you'll see, he often is involved somehow.
+# Newest items on top.
+
+#remember to capture mexico city policy, clamp down on agency social media, 
+
+2017-01-25,"Trump says he wants to build a wall that Mexico pays for, GOP says they'll fund it, Mexico says they won't.","In addition to the wall, Exeutive order 13767 aims to speed up deportations and increase border patrol agents.",http://www.cnn.com/2017/01/25/politics/donald-trump-build-wall-immigration-executive-orders/
+2017-01-24,Exeuctive order 13766 pushes forward the Keystone XL and Dakota Access Pipeline,Both projects had permits denied under the Obama administration. Trump is requiring them to be revisited.,http://www.cnn.com/2017/01/24/politics/trump-keystone-xl-dakota-access-pipelines-executive-actions/
+2017-01-21,Trump has Press Secretary lie about inaguration crowds and tell media what to cover,This was Sean Spicer's first press briefing.,http://money.cnn.com/2017/01/21/media/sean-spicer-press-secretary-statement/
+2017-01-20,Trump takes the first step toward dismantaling the Affordable Care Act, Executive order 13765 is broad, but ambiguous. One effect is stopping all pre-paid advertising for open enrollment. No refunds and also no ads.,http://www.politico.com/story/2017/01/trump-eo-233950,https://en.wikipedia.org/wiki/Inauguration_of_Donald_Trump
+2017-01-20,Donald Trump is sworn in as the 45th President of the United States,"Swears to ""preserve, protect, and defend the Constitution of the United States.""",
